@@ -7,3 +7,12 @@ C:\Dev\tropo-webapi-csharp-master\TropoConference\bin\Debug\TropoCSharp.pdb
 C:\Dev\tropo-webapi-csharp-master\TropoConference\bin\Debug\Newtonsoft.Json.xml
 C:\Dev\tropo-webapi-csharp-master\TropoConference\obj\Debug\TropoConference.exe
 C:\Dev\tropo-webapi-csharp-master\TropoConference\obj\Debug\TropoConference.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoConference\bin\Debug\TropoConference.exe
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoConference\bin\Debug\TropoConference.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoConference\bin\Debug\Newtonsoft.Json.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoConference\bin\Debug\TropoCSharp.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoConference\bin\Debug\TropoCSharp.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoConference\bin\Debug\Newtonsoft.Json.xml
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoConference\obj\Debug\TropoConference.csprojResolveAssemblyReference.cache
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoConference\obj\Debug\TropoConference.exe
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoConference\obj\Debug\TropoConference.pdb

@@ -7,3 +7,12 @@ C:\Dev\tropo-webapi-csharp-master\TropoOutboundSMS\bin\Debug\TropoCSharp.pdb
 C:\Dev\tropo-webapi-csharp-master\TropoOutboundSMS\bin\Debug\Newtonsoft.Json.xml
 C:\Dev\tropo-webapi-csharp-master\TropoOutboundSMS\obj\Debug\TropoOutboundSMS.exe
 C:\Dev\tropo-webapi-csharp-master\TropoOutboundSMS\obj\Debug\TropoOutboundSMS.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoOutboundSMS\obj\Debug\TropoOutboundSMS.exe
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoOutboundSMS\obj\Debug\TropoOutboundSMS.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoOutboundSMS\bin\Debug\TropoOutboundSMS.exe
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoOutboundSMS\bin\Debug\TropoOutboundSMS.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoOutboundSMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoOutboundSMS\bin\Debug\TropoCSharp.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoOutboundSMS\bin\Debug\TropoCSharp.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoOutboundSMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoOutboundSMS\obj\Debug\TropoOutboundSMS.csprojResolveAssemblyReference.cache

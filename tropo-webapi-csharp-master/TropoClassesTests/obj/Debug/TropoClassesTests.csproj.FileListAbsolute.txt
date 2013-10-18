@@ -33,3 +33,12 @@ C:\Dev\tropo-webapi-csharp-master\TropoClassesTests\bin\Debug\TropoCSharp.pdb
 C:\Dev\tropo-webapi-csharp-master\TropoClassesTests\bin\Debug\Newtonsoft.Json.xml
 C:\Dev\tropo-webapi-csharp-master\TropoClassesTests\obj\Debug\TropoClassesTests.dll
 C:\Dev\tropo-webapi-csharp-master\TropoClassesTests\obj\Debug\TropoClassesTests.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoClassesTests\bin\Debug\TropoClassesTests.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoClassesTests\bin\Debug\TropoClassesTests.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoClassesTests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoClassesTests\bin\Debug\TropoCSharp.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoClassesTests\bin\Debug\TropoCSharp.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoClassesTests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoClassesTests\obj\Debug\TropoClassesTests.csprojResolveAssemblyReference.cache
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoClassesTests\obj\Debug\TropoClassesTests.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoClassesTests\obj\Debug\TropoClassesTests.pdb

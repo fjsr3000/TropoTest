@@ -15,3 +15,12 @@ C:\Dev\tropo-webapi-csharp-master\TropoCollectDigits\bin\TropoCSharp.pdb
 C:\Dev\tropo-webapi-csharp-master\TropoCollectDigits\bin\Newtonsoft.Json.xml
 C:\Dev\tropo-webapi-csharp-master\TropoCollectDigits\obj\Debug\TropoCollectDigits.dll
 C:\Dev\tropo-webapi-csharp-master\TropoCollectDigits\obj\Debug\TropoCollectDigits.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoCollectDigits\bin\TropoCollectDigits.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoCollectDigits\bin\TropoCollectDigits.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoCollectDigits\bin\Newtonsoft.Json.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoCollectDigits\bin\TropoCSharp.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoCollectDigits\bin\TropoCSharp.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoCollectDigits\bin\Newtonsoft.Json.xml
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoCollectDigits\obj\Debug\TropoCollectDigits.csprojResolveAssemblyReference.cache
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoCollectDigits\obj\Debug\TropoCollectDigits.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoCollectDigits\obj\Debug\TropoCollectDigits.pdb
