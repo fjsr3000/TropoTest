@@ -24,7 +24,7 @@ namespace TropoSample
 
                 // Create a new instance of the Tropo object.
                 Tropo tropo = new Tropo();
-                
+
                 try
                 {
                     // Create a new Session object and pass in the JSON submitted from Tropo.
@@ -48,9 +48,9 @@ namespace TropoSample
 
                 catch (JsonReaderException ex)
                 {
-                    EventLog log = new EventLog();
-                    log.Source = "TROPOWEBAPI";
-                    log.WriteEntry("Tropo WebAPI Exception " + ex.Message, EventLogEntryType.Error);
+                    //EventLog log = new EventLog();
+                    //log.Source = "TROPOWEBAPI";
+                    //log.WriteEntry("Tropo WebAPI Exception " + ex.Message, EventLogEntryType.Error);
                     Response.StatusCode = 500;
                     tropo.Say("An error occured in the application. Bad JSON");
 
@@ -58,9 +58,9 @@ namespace TropoSample
 
                 catch (Exception ex)
                 {
-                    EventLog log = new EventLog();
-                    log.Source = "TROPOWEBAPI";
-                    log.WriteEntry("Tropo WebAPI Exception " + ex.Message, EventLogEntryType.Error);
+                    //EventLog log = new EventLog();
+                    //log.Source = "TROPOWEBAPI";
+                    //log.WriteEntry("Tropo WebAPI Exception " + ex.Message, EventLogEntryType.Error);
                     Response.StatusCode = 500;
                     tropo.Say("An error occured in the application.");
                 }
