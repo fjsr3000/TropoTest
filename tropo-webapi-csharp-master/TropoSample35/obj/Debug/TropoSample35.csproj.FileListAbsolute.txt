@@ -1,0 +1,9 @@
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoSample35\obj\Debug\TropoSample35.csprojResolveAssemblyReference.cache
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoSample35\bin\TropoSample35.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoSample35\bin\TropoSample35.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoSample35\bin\Newtonsoft.Json.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoSample35\bin\TropoCSharp.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoSample35\bin\TropoCSharp.pdb
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoSample35\bin\Newtonsoft.Json.xml
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoSample35\obj\Debug\TropoSample35.dll
+C:\Users\francisco.santamaria\Documents\GitHub\TropoTest\tropo-webapi-csharp-master\TropoSample35\obj\Debug\TropoSample35.pdb

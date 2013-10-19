@@ -13,7 +13,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TropoOutboundSMS", "TropoOu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TropoConference", "TropoConference\TropoConference.csproj", "{771A2BE5-CA58-47C7-B15F-94A5CC4B0478}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TropoSamples3", "TropoSamples3\TropoSamples3.csproj", "{9F049055-A47C-47FE-8E29-FC55B87A1FBC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TropoSample35", "TropoSample35\TropoSample35.csproj", "{CBE8EE22-1B14-435B-8FD8-3EA8E65218BA}"
 EndProject
 Global
 	GlobalSection(TestCaseManagementSettings) = postSolution
@@ -36,10 +36,10 @@ Global
 		{771A2BE5-CA58-47C7-B15F-94A5CC4B0478}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{771A2BE5-CA58-47C7-B15F-94A5CC4B0478}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{771A2BE5-CA58-47C7-B15F-94A5CC4B0478}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9F049055-A47C-47FE-8E29-FC55B87A1FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9F049055-A47C-47FE-8E29-FC55B87A1FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9F049055-A47C-47FE-8E29-FC55B87A1FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9F049055-A47C-47FE-8E29-FC55B87A1FBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CBE8EE22-1B14-435B-8FD8-3EA8E65218BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE8EE22-1B14-435B-8FD8-3EA8E65218BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBE8EE22-1B14-435B-8FD8-3EA8E65218BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBE8EE22-1B14-435B-8FD8-3EA8E65218BA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
