@@ -17,8 +17,8 @@ namespace OutboundTest
         static void Main(string[] args)
         {
             // The voice and messaging tokens provisioned when your Tropo application is set up.
-            string voiceToken = "20a2e73dee701d4aa98862053bb64bbe4232e5593e1008600801d38bfb8e59a13e28885eff3df3fba4f05ff3";
-            string messagingToken = "20a2fab5f86b214a8be5691e792bd8dac2d3bce0fbc6d6af4f88efc466106b85cb689e84d1831b2918fc40d8";
+            string voiceToken = "21bca0ff7694344bbf17a92a296fe6f7b35b8ac89bc83ce8054a1f5fc9f637ce62df71cb42a6513c86852212";
+            string messagingToken = "21bcbbb17c255b47a247bc1280e747ec16661fe702e56efe0f25ebef9df7c65e94a72dc0a9e788520eebc2a3";
 
             // A collection to hold the parameters we want to send to the Tropo Session API.
             IDictionary<string, string> parameters = new Dictionary<String, String>();
@@ -27,7 +27,7 @@ namespace OutboundTest
             parameters.Add("sendToNumber", "14803599974");
 
             // Enter a phone number to use as the caller ID.
-            parameters.Add("sendFromNumber", "14804288803");
+            parameters.Add("sendFromNumber", "14804471106");
 
             // Select the channel you want to use via the Channel struct.
             string channel = Channel.Text;
