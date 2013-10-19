@@ -63,7 +63,7 @@
     <Content Include="OutboundSMS.aspx" />
     <Content Include="RecordWithTranscription.aspx" />
     <Content Include="SendMessage.aspx" />
-    <Content Include="Start.aspx" />
+    <Content Include="index.aspx" />
     <Content Include="TropoResult.aspx" />
     <Content Include="TropoSession.aspx" />
     <Content Include="web.config" />
@@ -105,12 +105,12 @@
       <DependentUpon>SendMessage.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Start.aspx.cs">
-      <DependentUpon>Start.aspx</DependentUpon>
+    <Compile Include="index.aspx.cs">
+      <DependentUpon>index.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Start.aspx.designer.cs">
-      <DependentUpon>Start.aspx</DependentUpon>
+    <Compile Include="index.aspx.designer.cs">
+      <DependentUpon>index.aspx</DependentUpon>
     </Compile>
     <Compile Include="TropoResult.aspx.cs">
       <DependentUpon>TropoResult.aspx</DependentUpon>
