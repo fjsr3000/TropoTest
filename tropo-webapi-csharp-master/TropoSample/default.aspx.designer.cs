@@ -10,7 +10,7 @@
 namespace TropoSample {
     
     
-    public partial class Index {
+    public partial class Default {
         
         /// <summary>
         /// form1 control.
